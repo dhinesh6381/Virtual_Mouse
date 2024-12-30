@@ -10,7 +10,7 @@ This Python application enables control of the mouse cursor through hand gesture
 - **Gesture Actions**: Supports gestures for left-clicking, right-clicking, dragging, and scrolling using specific hand configurations.
 - **User Instructions**: Provides on-screen instructions for gesture controls and actions.
 ## Result
--Virtual_Mouse
+-Screenshot
 ![WhatsApp Image 2024-12-30 at 4 29 02 PM](https://github.com/user-attachments/assets/6d8613b7-e2af-4fdc-a82f-31655021107c)
 
 
@@ -22,7 +22,7 @@ git clone https://github.com/dhinesh6381/Virtual_Mouse
 ```
 ## Move the file
 ```bash
-cd Virtual-Mouse
+cd Virtual_Mouse
 ```
 ## Install Dependencies
 ```bash
